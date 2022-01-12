@@ -113,9 +113,9 @@ with col3:
     fig = px.bar(data_crop_2[:5], y='App', x='Reviews', title="Age groups", orientation='h')
     st.plotly_chart(fig, use_container_width=True)
 
-col4, space3, col5 = st.columns((10,1,10))
+# col4 = st.columns((10))
 
-with col4:
+with st.container():
     st.subheader("Pie plot")
     fig_pie = px.pie(values=android_breadkown.values(), names=android_breadkown.keys(), title='Android Verion Required')
     st.plotly_chart(fig_pie, use_container_width=True)
