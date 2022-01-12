@@ -110,7 +110,7 @@ with col2:
 
 with col3:  
     st.subheader("The 5 apps with the highest rating")
-    fig = px.bar(data_crop_2[:5], y='App', x='Reviews', title="Age groups", orientation='h')
+    fig = px.bar(data_crop_2[:5], y='App', x='Reviews', title="Bar plot", orientation='h')
     st.plotly_chart(fig, use_container_width=True)
 
 # col4 = st.columns((10))
