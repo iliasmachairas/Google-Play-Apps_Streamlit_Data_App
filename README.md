@@ -12,18 +12,18 @@ Besides price, size is another parameter of the app. Given that, units varied (k
 * Latest date of update <br />
 The user may select the latest date an update took place for the app. <br />
 * Android version  <br />
-Due to the high number of android versions, grouping was executed via regex to make the analysis easier (and the plots readable) given that it is only for educational purposes. Grouping was performed based on the first digit of Android version. It is worthwhile mentioning that there is a checkbox whether option " Varies with size" will be included in the pie plot.
+It is worthwhile mentioning that there is a checkbox whether option " Varies with size" (regarding android version) will be included in the pie plot. Due to the high number of android versions, grouping was executed via regex to make the analysis easier (and the plots readable) given that it is only for educational purposes. Grouping was performed based on the first digit of Android version. 
 
 ## **Results** <br/>
 * Barplot <br/>
 The first figure is a bar plot which depicts the reviews of the 5 apps with the highest ratings. <br/>
 * Pie plot <br/>
-It shows the apps with
+It shows the android version breadkown of the apps. The results are based on the parameters mentioned above. 
 
 How to run the app locally:
 1. Open anaconda prompt
-2. install streamlit usisng pip (i.e. pip install streamlit)
-3. Go to the directory where your python file is stored using cd (e.g. cd C:\Github_Scripts) In case your app is stored in anotehr drive (e.g. D), you may change directory using the following command (D:)
-4. streamlit run Filename.py'
+2. install streamlit usisng pip (i.e. type 'pip install streamlit')
+3. Go to the directory where your python file is stored using cd (e.g. type 'cd C:\Github_Scripts') In case your app is stored in anotehr drive (e.g. D), you may change directory using the following command (type 'D:')
+4. type 'streamlit run Filename.py'
 5. Accept the windows pop-up message for permission 
 
