@@ -21,8 +21,8 @@ The first figure is a bar plot which depicts the reviews of the 5 apps with the 
 It shows the apps with
 
 How to run the app locally:
-- Open anaconda prompt
-- install streamlit usisng pip (i.e. pip install streamlit)
+1. Open anaconda prompt
+2. install streamlit usisng pip (i.e. pip install streamlit)
 - Go to the directory where your python file is stored using cd (e.g. cd C:\Github_Scripts) In case your app is stored in anotehr drive (e.g. D), you may change directory using the following command (D:)
 - streamlit run Filename.py'
 - Accept the windows pop-up message for permission 
