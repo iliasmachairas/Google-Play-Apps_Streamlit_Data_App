@@ -2,8 +2,8 @@
 
 This dash app provides useful insight about Google Play Store Apps. Original data is derived from kaggle and can be found at the following link: https://www.kaggle.com/lava18/google-play-store-apps. The user can select the values of some parameters and changes on the plots will take place on the spot.
 
-**Parameters**
-“*” Category <br />
+**Parameters**<br />
+* Category <br />
 The user may select the category of the apps which they are interested in (from the drop down menu).<br />
 “*”Price <br />
 The maximum price based on which results will be presented may be selected as well. Before converting, the values from string to float type, regex (a powerful library for string manipulation) was used.<br />
