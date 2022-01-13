@@ -18,12 +18,12 @@ It is worthwhile mentioning that there is a checkbox whether option " Varies wit
 * Barplot <br/>
 The first figure is a bar plot which depicts the reviews of the 5 apps with the highest ratings. <br/>
 * Pie plot <br/>
-It shows the android version breadkown of the apps. The results are based on the parameters mentioned above. 
+It shows the android version breakdown of the apps. The results are based on the parameters mentioned above. 
 
 How to run the app locally:
 1. Open anaconda prompt
 2. install streamlit usisng pip (i.e. type 'pip install streamlit')
-3. Go to the directory where your python file is stored using cd (e.g. type 'cd C:\Github_Scripts') In case your app is stored in anotehr drive (e.g. D), you may change directory using the following command (type 'D:')
+3. Go to the directory where your python file is stored using cd (e.g. type 'cd C:\Github_Scripts') In case your app is stored in another drive (e.g. D), you may change directory using the following command (type 'D:')
 4. type 'streamlit run Filename.py'
 5. Accept the windows pop-up message for permission 
 
