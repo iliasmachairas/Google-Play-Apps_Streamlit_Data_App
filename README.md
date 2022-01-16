@@ -27,3 +27,4 @@ How to run the app locally:
 4. type 'streamlit run Filename.py'
 5. Accept the windows pop-up message for permission 
 
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.1/css/all.css" integrity="sha384-gfdkjb5BdAXd+lj+gudLWI+BXq4IuLW5IT+brZEZsLFm++aCMlF1V92rMkPaX4PP" crossorigin="anonymous">
