@@ -27,4 +27,4 @@ How to run the app locally:
 4. type 'streamlit run Filename.py'
 5. Accept the windows pop-up message for permission 
 
-<img src="{https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white}" />
+[<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />][blog]
